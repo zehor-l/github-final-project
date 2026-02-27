@@ -1,0 +1,7 @@
+$ curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub
+{
+  "id": 123456789,
+  "name": "mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "zehor.l/mcino-Introduction-to-Git-and-GitHub",
+  "owner": { "login": "zehor.l" }
+}
